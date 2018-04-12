@@ -7,4 +7,5 @@
 5. Ignoring files to be added using .gitignore
 6. Branching
 7. Merging and resolving conflicts
-
+8. Working with remote repository
+9. Pull, Push, Fetch
