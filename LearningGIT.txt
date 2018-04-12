@@ -6,4 +6,5 @@
 4. Adding multiple files at a time using git add .
 5. Ignoring files to be added using .gitignore
 6. Branching
+7. Merging and resolving conflicts
 
