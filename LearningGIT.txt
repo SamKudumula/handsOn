@@ -2,3 +2,4 @@
 1. Install and Setup
 2. Initializing and getting GIT Status
 3. Creating a file and staging the changes
+4. Adding and Committing changes
